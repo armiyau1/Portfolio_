@@ -319,6 +319,11 @@ background: var(--yellow);
         font-size:50%;
 
     }
+.portfolio .box-container .box{
+    height: 100%;
+    width: 100%;
+}
+
  
 }
 
