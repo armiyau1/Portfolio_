@@ -351,6 +351,10 @@ footer{
         font-size:50%;
 
     }
+    footer{
+    font-size: 1rem;
+
+    }
 .portfolio .box-container .box{
     height: 100%;
     width: 100%;
