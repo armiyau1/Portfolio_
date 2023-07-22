@@ -293,15 +293,25 @@ background: var(--yellow);
  color: #fff;
  font-family: sans-serif;
 }
+
 .aboutclock p{
-    font-size: 17px;
+    font-size: 20px;
     color: #eee;
-    flex-wrap: wrap;
     
 }
 .aboutclock span{
     color: #f9ca24;
-    font-size: 20px;
+    font-size: 3rem;
+}
+footer{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 15rem;
+    color: #eee;
+    font-family: sans-serif;
+    font-size: 2rem;
 }
 
 
